@@ -21,6 +21,4 @@ Institute: Indian Institute of Technology Kharagpur, West Bengal, India
 [Plant Disease Identification Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)  
 
 ## Other Important Links
-[Agrify Web application](https://agrify.streamlit.app/)    
-[Video Demonstration](https://youtu.be/EbcqEDCrJ-A?si=Ozy8wPi1a53XBLJk)  
-[Intel Devmesh Project Link](https://devmesh.intel.com/projects/agrify-a-tool-for-precision-agriculture#about-section)  
+[Agrify Web application](https://agrify.streamlit.app/)
